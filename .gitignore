@@ -1,0 +1,16 @@
+.idea/
+.Trash-0/
+.ssh/
+.vscode/settings.json
+apikey/huggingface.txt
+cache/
+data/
+*.csv
+*.feather
+*.pickle
+*.parquet
+output/
+util/watch_log/
+wandb/
+*.json
+apikey/
